@@ -1,0 +1,93 @@
+SOURCE LIST
+----------------------
+
+Conditions (Allergies)
+  https://www.aafa.org/types-of-allergies/
+
+Conditions (Cancers)
+  https://www.cancer.org/cancer/all-cancer-types.html
+
+Conditions (Circulatory)
+  https://www.cardiosmart.org/AZ-Topics?s={24B686ED-7720-442B-ACA4-F7F9BDCD6BF8}
+
+Conditions (Diabetic)
+  https://www.diabetes.org/diabetes/complications
+
+Conditions (Digestive)
+  https://www.niddk.nih.gov/health-information/digestive-diseases
+
+Conditions (Glandular)
+  https://www.niddk.nih.gov/health-information/endocrine-diseases#topics
+
+Conditions (Mental)
+  https://medlineplus.gov/mentaldisorders.html
+  https://psychcentral.com/disorders/
+
+Conditions (Musculoskeletal)
+  https://www.niams.nih.gov/health-topics/muscle-bone-diseases
+
+Conditions (Respiratory)
+  https://www.lung.org/lung-health-diseases/lung-disease-lookup
+
+- - - - - - - - - - - - - - - -
+
+Medications (Allergies)
+  https://www.aaaai.org/conditions-and-treatments/drug-guide
+
+Medications (Cancers)
+  https://www.cancer.gov/about-cancer/treatment/drugs
+
+Medications (Circulatory)
+  https://www.heart.org/en/health-topics/heart-attack/treatment-of-a-heart-attack/cardiac-medications#cholesterol
+
+Medications (Diabetic)
+  https://www.healthline.com/health/diabetes/medications-list
+
+Medications (Digestive)
+  https://www.gastroconsultants.com/for-patients/common-medications
+
+Medications (Glandular)
+  https://reference.medscape.com/drugs/metabolic-endocrine
+
+Medications (Mental)
+  https://www.nimh.nih.gov/health/topics/mental-health-medications/index.shtml
+
+Medications (Musculoskeletal)
+  https://www.centerwatch.com/directories/1067-fda-approved-drugs/topic/99-musculoskeletal?page=1
+
+Medications (Respiratory)
+  https://www.nationaljewish.org/conditions/medications
+
+- - - - - - - - - - - - - - - -
+
+Procedures (Allergies)
+  https://www.aafa.org/allergy-treatments/
+
+Procedures (Cancers)
+  https://www.cancer.gov/about-cancer/treatment/types
+
+Procedures (Circulatory)
+  https://www.heart.org/en/health-topics/heart-attack/treatment-of-a-heart-attack/cardiac-procedures-and-surgeries
+  https://www.nhlbi.nih.gov/health-topics/heart-surgery
+
+Procedures (Diabetic)
+  https://asmbs.org/patients/surgery-for-diabetes
+
+Procedures (Digestive)
+  https://badgut.org/information-centre/diagnostic-tests-and-procedures/
+
+Procedures (Glandular)
+  https://mainehealth.org/services/endocrinology-diabetes/endocrine-surgery\
+  https://www.mayoclinic.org/departments-centers/endocrine-surgery/sections/tests-procedures/orc-20472056
+
+Procedures (Mental)
+  https://www.nami.org/Learn-More/Treatment/Psychotherapy
+  https://www.nami.org/Learn-More/Treatment/Psychosocial-Treatments
+  https://www.nami.org/Learn-More/Treatment/ECT,-TMS-and-Other-Brain-Stimulation-Therapies
+
+Procedures (Musculoskeletal)
+  https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/diagnosis-and-screening-for-orthopaedic-conditions
+  https://www.webmd.com/pain-management/guide/musculoskeletal-pain#1-5
+
+Procedures (Respiratory)
+  https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/minimally-invasive-thoracic-surgery
