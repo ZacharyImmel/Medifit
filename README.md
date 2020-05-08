@@ -1,8 +1,8 @@
 ## Medifit
 
-Medifit provides data on conditions and diseases, medications, and treatment procedures for nine different body systems, including circulatory, respiratory, glandular, musculoskeletal, and more! Populate your medical interfaces with relevant medical data easily and quickly!
+Medifit is a plugin for the popular interface design tool, Sketch.  The plugin replaces filler text with the names of real diseases, medications, and treatment procedures for nine different body systems as well as conditions like diabetes, allergies, and cancer.  With Medifit, you can populate your health insurance applications and medical interface prototypes with more relevant data easily and quickly!
 
-This plugin was developed by Zachary Immel with support and sponsorship from the Kent State University School of Information in Kent, Ohio.
+This plugin was developed by Zachary Immel with support and sponsorship from the Kent State User Experience Design Master of Science program at Kent State University in Kent, OH.
 
 Developed using skpm and the Data Supplier Template (https://github.com/sketch-hq/plugins.examples.datasupplier)
 
